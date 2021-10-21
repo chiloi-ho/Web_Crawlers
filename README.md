@@ -1,2 +1,2 @@
 # Web_Crawlers
-Web crawlers for some Chinese news websites
+Web crawlers for crawling some Chinese news websites.
